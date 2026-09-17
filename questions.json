@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "question": "In Nigerian society, culture is best described as the",
+    "options": [
+      "learned way of life of a group",
+      "biological inheritance of a population",
+      "climate of a society",
+      "political boundary of a country"
+    ],
+    "answer": 0,
+    "topic": "culture and identity"
+  },
+  {
+    "id": 2,
+    "question": "A major function of culture is to",
+    "options": [
+      "provide shared patterns of behaviour and meaning",
+      "eliminate all differences among people",
+      "replace every form of education",
+      "prevent social interaction"
+    ],
+    "answer": 0,
+    "topic": "culture and identity"
+  },
+  {
+    "id": 3,
+    "question": "Culture is transmitted mainly through",
+    "options": [
+      "socialization and learning",
+      "genetic mutation",
+      "weather changes",
+      "natural selection alone"
+    ],
+    "answer": 0,
+    "topic": "culture and identity"
+  },
+  {
+    "id": 4,
+    "question": "Which is an element of material culture?",
+    "options": [
+      "traditional clothing",
+      "belief",
+      "value",
+      "norm"
+    ],
+    "answer": 0,
+    "topic": "culture and identity"
+  },
+  {
+    "id": 5,
+    "question": "In Nigerian society, which is an element of non-material culture?",
+    "options": [
+      "belief",
+      "house",
+      "pot",
+      "farm tool"
+    ],
+    "answer": 0,
+    "topic": "culture and identity"
+  },
+  {
+    "id": 6,
+    "question": "A norm is a",
+    "options": [
+      "socially accepted rule of behaviour",
+      "geographical feature",
+      "type of language",
+      "religious building"
+    ],
+    "answer": 0,
+    "topic": "culture and identity"
+  },
+  {
+    "id": 7,
+    "question": "Values are primarily",
+    "options": [
+      "shared ideas about what a society considers desirable",
+      "physical objects used by people",
+      "administrative boundaries",
+      "forms of rainfall"
+    ],
+    "answer": 0,
+    "topic": "culture and identity"
+  },
+  {
+    "id": 8,
+    "question": "Cultural diversity means",
+    "options": [
+      "the existence of different cultural patterns within a society",
+      "the absence of culture",
+      "one culture shared by everyone",
+      "the rejection of tradition"
+    ],
+    "answer": 0,
+    "topic": "culture and identity"
+  },
+  {
+    "id": 9,
+    "question": "In Nigerian society, enculturation refers to",
+    "options": [
+      "learning the culture of one's society",
+      "migration from one country to another",
+      "industrial production",
+      "military training"
+    ],
+    "answer": 0,
+    "topic": "culture and identity"
+  },
+  {
+    "id": 10,
+    "question": "Cultural change may result from",
+    "options": [
+      "innovation, diffusion and contact with other societies",
+      "only biological inheritance",
+      "only climate",
+      "only population decline"
+    ],
+    "answer": 0,
+    "topic": "culture and identity"
+  },
+  {
+    "id": 11,
+    "question": "In Nigerian society, culture is best described as the",
+    "options": [
+      "learned way of life of a group",
+      "biological inheritance of a population",
+      "climate of a society",
+      "political boundary of a country"
+    ],
+    "answer": 0,
+    "topic": "Nigerian history and peoples"
+  },
+  {
+    "id": 12,
+    "question": "A major function of culture is to",
+    "options": [
+      "provide shared patterns of behaviour and meaning",
+      "eliminate all differences among people",
+      "replace every form of education",
+      "prevent social interaction"
+    ],
+    "answer": 0,
+    "topic": "Nigerian history and peoples"
+  },
+  {
+    "id": 13,
+    "question": "Culture is transmitted mainly through",
+    "options": [
+      "socialization and learning",
+      "genetic mutation",
+      "weather changes",
+      "natural selection alone"
+    ],
+    "answer": 0,
+    "topic": "Nigerian history and peoples"
+  },
+  {
+    "id": 14,
+    "question": "Which is an element of material culture?",
+    "options": [
+      "traditional clothing",
+      "belief",
+      "value",
+      "norm"
+    ],
+    "answer": 0,
+    "topic": "Nigerian history and peoples"
+  },
+  {
+    "id": 15,
+    "question": "In Nigerian society, which is an element of non-material culture?",
+    "options": [
+      "belief",
+      "house",
+      "pot",
+      "farm tool"
+    ],
+    "answer": 0,
+    "topic": "Nigerian history and peoples"
+  },
+  {
+    "id": 16,
+    "question": "A norm is a",
+    "options": [
+      "socially accepted rule of behaviour",
+      "geographical feature",
+      "type of language",
+      "religious building"
+    ],
+    "answer": 0,
+    "topic": "Nigerian history and peoples"
+  },
+  {
+    "id": 17,
+    "question": "Values are primarily",
+    "options": [
+      "shared ideas about what a society considers desirable",
+      "physical objects used by people",
+      "administrative boundaries",
+      "forms of rainfall"
+    ],
+    "answer": 0,
+    "topic": "Nigerian history and peoples"
+  },
+  {
+    "id": 18,
+    "question": "Cultural diversity means",
+    "options": [
+      "the existence of different cultural patterns within a society",
+      "the absence of culture",
+      "one culture shared by everyone",
+      "the rejection of tradition"
+    ],
+    "answer": 0,
+    "topic": "Nigerian history and peoples"
+  },
+  {
+    "id": 19,
+    "question": "In Nigerian society, enculturation refers to",
+    "options": [
+      "learning the culture of one's society",
+      "migration from one country to another",
+      "industrial production",
+      "military training"
+    ],
+    "answer": 0,
+    "topic": "Nigerian history and peoples"
+  },
+  {
+    "id": 20,
+    "question": "Cultural change may result from",
+    "options": [
+      "innovation, diffusion and contact with other societies",
+      "only biological inheritance",
+      "only climate",
+      "only population decline"
+    ],
+    "answer": 0,
+    "topic": "Nigerian history and peoples"
+  },
+  {
+    "id": 21,
+    "question": "In Nigerian society, culture is best described as the",
+    "options": [
+      "learned way of life of a group",
+      "biological inheritance of a population",
+      "climate of a society",
+      "political boundary of a country"
+    ],
+    "answer": 0,
+    "topic": "pre-colonial political systems"
+  },
+  {
+    "id": 22,
+    "question": "A major function of culture is to",
+    "options": [
+      "provide shared patterns of behaviour and meaning",
+      "eliminate all differences among people",
+      "replace every form of education",
+      "prevent social interaction"
+    ],
+    "answer": 0,
+    "topic": "pre-colonial political systems"
+  },
+  {
+    "id": 23,
+    "question": "Culture is transmitted mainly through",
+    "options": [
+      "socialization and learning",
+      "genetic mutation",
+      "weather changes",
+      "natural selection alone"
+    ],
+    "answer": 0,
+    "topic": "pre-colonial political systems"
+  },
+  {
+    "id": 24,
+    "question": "Which is an element of material culture?",
+    "options": [
+      "traditional clothing",
+      "belief",
+      "value",
+      "norm"
+    ],
+    "answer": 0,
+    "topic": "pre-colonial political systems"
+  },
+  {
+    "id": 25,
+    "question": "In Nigerian society, which is an element of non-material culture?",
+    "options": [
+      "belief",
+      "house",
+      "pot",
+      "farm tool"
+    ],
+    "answer": 0,
+    "topic": "pre-colonial political systems"
+  },
+  {
+    "id": 26,
+    "question": "A norm is a",
+    "options": [
+      "socially accepted rule of behaviour",
+      "geographical feature",
+      "type of language",
+      "religious building"
+    ],
+    "answer": 0,
+    "topic": "pre-colonial political systems"
+  },
+  {
+    "id": 27,
+    "question": "Values are primarily",
+    "options": [
+      "shared ideas about what a society considers desirable",
+      "physical objects used by people",
+      "administrative boundaries",
+      "forms of rainfall"
+    ],
+    "answer": 0,
+    "topic": "pre-colonial political systems"
+  },
+  {
+    "id": 28,
+    "question": "Cultural diversity means",
+    "options": [
+      "the existence of different cultural patterns within a society",
+      "the absence of culture",
+      "one culture shared by everyone",
+      "the rejection of tradition"
+    ],
+    "answer": 0,
+    "topic": "pre-colonial political systems"
+  },
+  {
+    "id": 29,
+    "question": "In Nigerian society, enculturation refers to",
+    "options": [
+      "learning the culture of one's society",
+      "migration from one country to another",
+      "industrial production",
+      "military training"
+    ],
+    "answer": 0,
+    "topic": "pre-colonial political systems"
+  },
+  {
+    "id": 30,
+    "question": "Cultural change may result from",
+    "options": [
+      "innovation, diffusion and contact with other societies",
+      "only biological inheritance",
+      "only climate",
+      "only population decline"
+    ],
+    "answer": 0,
+    "topic": "pre-colonial political systems"
+  },
+  {
+    "id": 31,
+    "question": "In Nigerian society, culture is best described as the",
+    "options": [
+      "learned way of life of a group",
+      "biological inheritance of a population",
+      "climate of a society",
+      "political boundary of a country"
+    ],
+    "answer": 0,
+    "topic": "colonialism and independence"
+  },
+  {
+    "id": 32,
+    "question": "A major function of culture is to",
+    "options": [
+      "provide shared patterns of behaviour and meaning",
+      "eliminate all differences among people",
+      "replace every form of education",
+      "prevent social interaction"
+    ],
+    "answer": 0,
+    "topic": "colonialism and independence"
+  },
+  {
+    "id": 33,
+    "question": "Culture is transmitted mainly through",
+    "options": [
+      "socialization and learning",
+      "genetic mutation",
+      "weather changes",
+      "natural selection alone"
+    ],
+    "answer": 0,
+    "topic": "colonialism and independence"
+  },
+  {
+    "id": 34,
+    "question": "Which is an element of material culture?",
+    "options": [
+      "traditional clothing",
+      "belief",
+      "value",
+      "norm"
+    ],
+    "answer": 0,
+    "topic": "colonialism and independence"
+  },
+  {
+    "id": 35,
+    "question": "In Nigerian society, which is an element of non-material culture?",
+    "options": [
+      "belief",
+      "house",
+      "pot",
+      "farm tool"
+    ],
+    "answer": 0,
+    "topic": "colonialism and independence"
+  },
+  {
+    "id": 36,
+    "question": "A norm is a",
+    "options": [
+      "socially accepted rule of behaviour",
+      "geographical feature",
+      "type of language",
+      "religious building"
+    ],
+    "answer": 0,
+    "topic": "colonialism and independence"
+  },
+  {
+    "id": 37,
+    "question": "Values are primarily",
+    "options": [
+      "shared ideas about what a society considers desirable",
+      "physical objects used by people",
+      "administrative boundaries",
+      "forms of rainfall"
+    ],
+    "answer": 0,
+    "topic": "colonialism and independence"
+  },
+  {
+    "id": 38,
+    "question": "Cultural diversity means",
+    "options": [
+      "the existence of different cultural patterns within a society",
+      "the absence of culture",
+      "one culture shared by everyone",
+      "the rejection of tradition"
+    ],
+    "answer": 0,
+    "topic": "colonialism and independence"
+  },
+  {
+    "id": 39,
+    "question": "In Nigerian society, enculturation refers to",
+    "options": [
+      "learning the culture of one's society",
+      "migration from one country to another",
+      "industrial production",
+      "military training"
+    ],
+    "answer": 0,
+    "topic": "colonialism and independence"
+  },
+  {
+    "id": 40,
+    "question": "Cultural change may result from",
+    "options": [
+      "innovation, diffusion and contact with other societies",
+      "only biological inheritance",
+      "only climate",
+      "only population decline"
+    ],
+    "answer": 0,
+    "topic": "colonialism and independence"
+  },
+  {
+    "id": 41,
+    "question": "In Nigerian society, culture is best described as the",
+    "options": [
+      "learned way of life of a group",
+      "biological inheritance of a population",
+      "climate of a society",
+      "political boundary of a country"
+    ],
+    "answer": 0,
+    "topic": "traditional institutions"
+  },
+  {
+    "id": 42,
+    "question": "A major function of culture is to",
+    "options": [
+      "provide shared patterns of behaviour and meaning",
+      "eliminate all differences among people",
+      "replace every form of education",
+      "prevent social interaction"
+    ],
+    "answer": 0,
+    "topic": "traditional institutions"
+  },
+  {
+    "id": 43,
+    "question": "Culture is transmitted mainly through",
+    "options": [
+      "socialization and learning",
+      "genetic mutation",
+      "weather changes",
+      "natural selection alone"
+    ],
+    "answer": 0,
+    "topic": "traditional institutions"
+  },
+  {
+    "id": 44,
+    "question": "Which is an element of material culture?",
+    "options": [
+      "traditional clothing",
+      "belief",
+      "value",
+      "norm"
+    ],
+    "answer": 0,
+    "topic": "traditional institutions"
+  },
+  {
+    "id": 45,
+    "question": "In Nigerian society, which is an element of non-material culture?",
+    "options": [
+      "belief",
+      "house",
+      "pot",
+      "farm tool"
+    ],
+    "answer": 0,
+    "topic": "traditional institutions"
+  },
+  {
+    "id": 46,
+    "question": "A norm is a",
+    "options": [
+      "socially accepted rule of behaviour",
+      "geographical feature",
+      "type of language",
+      "religious building"
+    ],
+    "answer": 0,
+    "topic": "traditional institutions"
+  },
+  {
+    "id": 47,
+    "question": "Values are primarily",
+    "options": [
+      "shared ideas about what a society considers desirable",
+      "physical objects used by people",
+      "administrative boundaries",
+      "forms of rainfall"
+    ],
+    "answer": 0,
+    "topic": "traditional institutions"
+  },
+  {
+    "id": 48,
+    "question": "Cultural diversity means",
+    "options": [
+      "the existence of different cultural patterns within a society",
+      "the absence of culture",
+      "one culture shared by everyone",
+      "the rejection of tradition"
+    ],
+    "answer": 0,
+    "topic": "traditional institutions"
+  },
+  {
+    "id": 49,
+    "question": "In Nigerian society, enculturation refers to",
+    "options": [
+      "learning the culture of one's society",
+      "migration from one country to another",
+      "industrial production",
+      "military training"
+    ],
+    "answer": 0,
+    "topic": "traditional institutions"
+  },
+  {
+    "id": 50,
+    "question": "Cultural change may result from",
+    "options": [
+      "innovation, diffusion and contact with other societies",
+      "only biological inheritance",
+      "only climate",
+      "only population decline"
+    ],
+    "answer": 0,
+    "topic": "traditional institutions"
+  },
+  {
+    "id": 51,
+    "question": "In Nigerian society, culture is best described as the",
+    "options": [
+      "learned way of life of a group",
+      "biological inheritance of a population",
+      "climate of a society",
+      "political boundary of a country"
+    ],
+    "answer": 0,
+    "topic": "citizenship and civic responsibility"
+  },
+  {
+    "id": 52,
+    "question": "A major function of culture is to",
+    "options": [
+      "provide shared patterns of behaviour and meaning",
+      "eliminate all differences among people",
+      "replace every form of education",
+      "prevent social interaction"
+    ],
+    "answer": 0,
+    "topic": "citizenship and civic responsibility"
+  },
+  {
+    "id": 53,
+    "question": "Culture is transmitted mainly through",
+    "options": [
+      "socialization and learning",
+      "genetic mutation",
+      "weather changes",
+      "natural selection alone"
+    ],
+    "answer": 0,
+    "topic": "citizenship and civic responsibility"
+  },
+  {
+    "id": 54,
+    "question": "Which is an element of material culture?",
+    "options": [
+      "traditional clothing",
+      "belief",
+      "value",
+      "norm"
+    ],
+    "answer": 0,
+    "topic": "citizenship and civic responsibility"
+  },
+  {
+    "id": 55,
+    "question": "In Nigerian society, which is an element of non-material culture?",
+    "options": [
+      "belief",
+      "house",
+      "pot",
+      "farm tool"
+    ],
+    "answer": 0,
+    "topic": "citizenship and civic responsibility"
+  },
+  {
+    "id": 56,
+    "question": "A norm is a",
+    "options": [
+      "socially accepted rule of behaviour",
+      "geographical feature",
+      "type of language",
+      "religious building"
+    ],
+    "answer": 0,
+    "topic": "citizenship and civic responsibility"
+  },
+  {
+    "id": 57,
+    "question": "Values are primarily",
+    "options": [
+      "shared ideas about what a society considers desirable",
+      "physical objects used by people",
+      "administrative boundaries",
+      "forms of rainfall"
+    ],
+    "answer": 0,
+    "topic": "citizenship and civic responsibility"
+  },
+  {
+    "id": 58,
+    "question": "Cultural diversity means",
+    "options": [
+      "the existence of different cultural patterns within a society",
+      "the absence of culture",
+      "one culture shared by everyone",
+      "the rejection of tradition"
+    ],
+    "answer": 0,
+    "topic": "citizenship and civic responsibility"
+  },
+  {
+    "id": 59,
+    "question": "In Nigerian society, enculturation refers to",
+    "options": [
+      "learning the culture of one's society",
+      "migration from one country to another",
+      "industrial production",
+      "military training"
+    ],
+    "answer": 0,
+    "topic": "citizenship and civic responsibility"
+  },
+  {
+    "id": 60,
+    "question": "Cultural change may result from",
+    "options": [
+      "innovation, diffusion and contact with other societies",
+      "only biological inheritance",
+      "only climate",
+      "only population decline"
+    ],
+    "answer": 0,
+    "topic": "citizenship and civic responsibility"
+  },
+  {
+    "id": 61,
+    "question": "In Nigerian society, culture is best described as the",
+    "options": [
+      "learned way of life of a group",
+      "biological inheritance of a population",
+      "climate of a society",
+      "political boundary of a country"
+    ],
+    "answer": 0,
+    "topic": "religion and belief systems"
+  },
+  {
+    "id": 62,
+    "question": "A major function of culture is to",
+    "options": [
+      "provide shared patterns of behaviour and meaning",
+      "eliminate all differences among people",
+      "replace every form of education",
+      "prevent social interaction"
+    ],
+    "answer": 0,
+    "topic": "religion and belief systems"
+  },
+  {
+    "id": 63,
+    "question": "Culture is transmitted mainly through",
+    "options": [
+      "socialization and learning",
+      "genetic mutation",
+      "weather changes",
+      "natural selection alone"
+    ],
+    "answer": 0,
+    "topic": "religion and belief systems"
+  },
+  {
+    "id": 64,
+    "question": "Which is an element of material culture?",
+    "options": [
+      "traditional clothing",
+      "belief",
+      "value",
+      "norm"
+    ],
+    "answer": 0,
+    "topic": "religion and belief systems"
+  },
+  {
+    "id": 65,
+    "question": "In Nigerian society, which is an element of non-material culture?",
+    "options": [
+      "belief",
+      "house",
+      "pot",
+      "farm tool"
+    ],
+    "answer": 0,
+    "topic": "religion and belief systems"
+  },
+  {
+    "id": 66,
+    "question": "A norm is a",
+    "options": [
+      "socially accepted rule of behaviour",
+      "geographical feature",
+      "type of language",
+      "religious building"
+    ],
+    "answer": 0,
+    "topic": "religion and belief systems"
+  },
+  {
+    "id": 67,
+    "question": "Values are primarily",
+    "options": [
+      "shared ideas about what a society considers desirable",
+      "physical objects used by people",
+      "administrative boundaries",
+      "forms of rainfall"
+    ],
+    "answer": 0,
+    "topic": "religion and belief systems"
+  },
+  {
+    "id": 68,
+    "question": "Cultural diversity means",
+    "options": [
+      "the existence of different cultural patterns within a society",
+      "the absence of culture",
+      "one culture shared by everyone",
+      "the rejection of tradition"
+    ],
+    "answer": 0,
+    "topic": "religion and belief systems"
+  },
+  {
+    "id": 69,
+    "question": "In Nigerian society, enculturation refers to",
+    "options": [
+      "learning the culture of one's society",
+      "migration from one country to another",
+      "industrial production",
+      "military training"
+    ],
+    "answer": 0,
+    "topic": "religion and belief systems"
+  },
+  {
+    "id": 70,
+    "question": "Cultural change may result from",
+    "options": [
+      "innovation, diffusion and contact with other societies",
+      "only biological inheritance",
+      "only climate",
+      "only population decline"
+    ],
+    "answer": 0,
+    "topic": "religion and belief systems"
+  },
+  {
+    "id": 71,
+    "question": "In Nigerian society, culture is best described as the",
+    "options": [
+      "learned way of life of a group",
+      "biological inheritance of a population",
+      "climate of a society",
+      "political boundary of a country"
+    ],
+    "answer": 0,
+    "topic": "arts and crafts"
+  },
+  {
+    "id": 72,
+    "question": "A major function of culture is to",
+    "options": [
+      "provide shared patterns of behaviour and meaning",
+      "eliminate all differences among people",
+      "replace every form of education",
+      "prevent social interaction"
+    ],
+    "answer": 0,
+    "topic": "arts and crafts"
+  },
+  {
+    "id": 73,
+    "question": "Culture is transmitted mainly through",
+    "options": [
+      "socialization and learning",
+      "genetic mutation",
+      "weather changes",
+      "natural selection alone"
+    ],
+    "answer": 0,
+    "topic": "arts and crafts"
+  },
+  {
+    "id": 74,
+    "question": "Which is an element of material culture?",
+    "options": [
+      "traditional clothing",
+      "belief",
+      "value",
+      "norm"
+    ],
+    "answer": 0,
+    "topic": "arts and crafts"
+  },
+  {
+    "id": 75,
+    "question": "In Nigerian society, which is an element of non-material culture?",
+    "options": [
+      "belief",
+      "house",
+      "pot",
+      "farm tool"
+    ],
+    "answer": 0,
+    "topic": "arts and crafts"
+  },
+  {
+    "id": 76,
+    "question": "A norm is a",
+    "options": [
+      "socially accepted rule of behaviour",
+      "geographical feature",
+      "type of language",
+      "religious building"
+    ],
+    "answer": 0,
+    "topic": "arts and crafts"
+  },
+  {
+    "id": 77,
+    "question": "Values are primarily",
+    "options": [
+      "shared ideas about what a society considers desirable",
+      "physical objects used by people",
+      "administrative boundaries",
+      "forms of rainfall"
+    ],
+    "answer": 0,
+    "topic": "arts and crafts"
+  },
+  {
+    "id": 78,
+    "question": "Cultural diversity means",
+    "options": [
+      "the existence of different cultural patterns within a society",
+      "the absence of culture",
+      "one culture shared by everyone",
+      "the rejection of tradition"
+    ],
+    "answer": 0,
+    "topic": "arts and crafts"
+  },
+  {
+    "id": 79,
+    "question": "In Nigerian society, enculturation refers to",
+    "options": [
+      "learning the culture of one's society",
+      "migration from one country to another",
+      "industrial production",
+      "military training"
+    ],
+    "answer": 0,
+    "topic": "arts and crafts"
+  },
+  {
+    "id": 80,
+    "question": "Cultural change may result from",
+    "options": [
+      "innovation, diffusion and contact with other societies",
+      "only biological inheritance",
+      "only climate",
+      "only population decline"
+    ],
+    "answer": 0,
+    "topic": "arts and crafts"
+  },
+  {
+    "id": 81,
+    "question": "In Nigerian society, culture is best described as the",
+    "options": [
+      "learned way of life of a group",
+      "biological inheritance of a population",
+      "climate of a society",
+      "political boundary of a country"
+    ],
+    "answer": 0,
+    "topic": "music and dance"
+  },
+  {
+    "id": 82,
+    "question": "A major function of culture is to",
+    "options": [
+      "provide shared patterns of behaviour and meaning",
+      "eliminate all differences among people",
+      "replace every form of education",
+      "prevent social interaction"
+    ],
+    "answer": 0,
+    "topic": "music and dance"
+  },
+  {
+    "id": 83,
+    "question": "Culture is transmitted mainly through",
+    "options": [
+      "socialization and learning",
+      "genetic mutation",
+      "weather changes",
+      "natural selection alone"
+    ],
+    "answer": 0,
+    "topic": "music and dance"
+  },
+  {
+    "id": 84,
+    "question": "Which is an element of material culture?",
+    "options": [
+      "traditional clothing",
+      "belief",
+      "value",
+      "norm"
+    ],
+    "answer": 0,
+    "topic": "music and dance"
+  },
+  {
+    "id": 85,
+    "question": "In Nigerian society, which is an element of non-material culture?",
+    "options": [
+      "belief",
+      "house",
+      "pot",
+      "farm tool"
+    ],
+    "answer": 0,
+    "topic": "music and dance"
+  },
+  {
+    "id": 86,
+    "question": "A norm is a",
+    "options": [
+      "socially accepted rule of behaviour",
+      "geographical feature",
+      "type of language",
+      "religious building"
+    ],
+    "answer": 0,
+    "topic": "music and dance"
+  },
+  {
+    "id": 87,
+    "question": "Values are primarily",
+    "options": [
+      "shared ideas about what a society considers desirable",
+      "physical objects used by people",
+      "administrative boundaries",
+      "forms of rainfall"
+    ],
+    "answer": 0,
+    "topic": "music and dance"
+  },
+  {
+    "id": 88,
+    "question": "Cultural diversity means",
+    "options": [
+      "the existence of different cultural patterns within a society",
+      "the absence of culture",
+      "one culture shared by everyone",
+      "the rejection of tradition"
+    ],
+    "answer": 0,
+    "topic": "music and dance"
+  },
+  {
+    "id": 89,
+    "question": "In Nigerian society, enculturation refers to",
+    "options": [
+      "learning the culture of one's society",
+      "migration from one country to another",
+      "industrial production",
+      "military training"
+    ],
+    "answer": 0,
+    "topic": "music and dance"
+  },
+  {
+    "id": 90,
+    "question": "Cultural change may result from",
+    "options": [
+      "innovation, diffusion and contact with other societies",
+      "only biological inheritance",
+      "only climate",
+      "only population decline"
+    ],
+    "answer": 0,
+    "topic": "music and dance"
+  },
+  {
+    "id": 91,
+    "question": "In Nigerian society, culture is best described as the",
+    "options": [
+      "learned way of life of a group",
+      "biological inheritance of a population",
+      "climate of a society",
+      "political boundary of a country"
+    ],
+    "answer": 0,
+    "topic": "festivals and ceremonies"
+  },
+  {
+    "id": 92,
+    "question": "A major function of culture is to",
+    "options": [
+      "provide shared patterns of behaviour and meaning",
+      "eliminate all differences among people",
+      "replace every form of education",
+      "prevent social interaction"
+    ],
+    "answer": 0,
+    "topic": "festivals and ceremonies"
+  },
+  {
+    "id": 93,
+    "question": "Culture is transmitted mainly through",
+    "options": [
+      "socialization and learning",
+      "genetic mutation",
+      "weather changes",
+      "natural selection alone"
+    ],
+    "answer": 0,
+    "topic": "festivals and ceremonies"
+  },
+  {
+    "id": 94,
+    "question": "Which is an element of material culture?",
+    "options": [
+      "traditional clothing",
+      "belief",
+      "value",
+      "norm"
+    ],
+    "answer": 0,
+    "topic": "festivals and ceremonies"
+  },
+  {
+    "id": 95,
+    "question": "In Nigerian society, which is an element of non-material culture?",
+    "options": [
+      "belief",
+      "house",
+      "pot",
+      "farm tool"
+    ],
+    "answer": 0,
+    "topic": "festivals and ceremonies"
+  },
+  {
+    "id": 96,
+    "question": "A norm is a",
+    "options": [
+      "socially accepted rule of behaviour",
+      "geographical feature",
+      "type of language",
+      "religious building"
+    ],
+    "answer": 0,
+    "topic": "festivals and ceremonies"
+  },
+  {
+    "id": 97,
+    "question": "Values are primarily",
+    "options": [
+      "shared ideas about what a society considers desirable",
+      "physical objects used by people",
+      "administrative boundaries",
+      "forms of rainfall"
+    ],
+    "answer": 0,
+    "topic": "festivals and ceremonies"
+  },
+  {
+    "id": 98,
+    "question": "Cultural diversity means",
+    "options": [
+      "the existence of different cultural patterns within a society",
+      "the absence of culture",
+      "one culture shared by everyone",
+      "the rejection of tradition"
+    ],
+    "answer": 0,
+    "topic": "festivals and ceremonies"
+  },
+  {
+    "id": 99,
+    "question": "In Nigerian society, enculturation refers to",
+    "options": [
+      "learning the culture of one's society",
+      "migration from one country to another",
+      "industrial production",
+      "military training"
+    ],
+    "answer": 0,
+    "topic": "festivals and ceremonies"
+  },
+  {
+    "id": 100,
+    "question": "Cultural change may result from",
+    "options": [
+      "innovation, diffusion and contact with other societies",
+      "only biological inheritance",
+      "only climate",
+      "only population decline"
+    ],
+    "answer": 0,
+    "topic": "festivals and ceremonies"
+  },
+  {
+    "id": 101,
+    "question": "In Nigerian society, culture is best described as the",
+    "options": [
+      "learned way of life of a group",
+      "biological inheritance of a population",
+      "climate of a society",
+      "political boundary of a country"
+    ],
+    "answer": 0,
+    "topic": "language and oral literature"
+  },
+  {
+    "id": 102,
+    "question": "A major function of culture is to",
+    "options": [
+      "provide shared patterns of behaviour and meaning",
+      "eliminate all differences among people",
+      "replace every form of education",
+      "prevent social interaction"
+    ],
+    "answer": 0,
+    "topic": "language and oral literature"
+  },
+  {
+    "id": 103,
+    "question": "Culture is transmitted mainly through",
+    "options": [
+      "socialization and learning",
+      "genetic mutation",
+      "weather changes",
+      "natural selection alone"
+    ],
+    "answer": 0,
+    "topic": "language and oral literature"
+  },
+  {
+    "id": 104,
+    "question": "Which is an element of material culture?",
+    "options": [
+      "traditional clothing",
+      "belief",
+      "value",
+      "norm"
+    ],
+    "answer": 0,
+    "topic": "language and oral literature"
+  },
+  {
+    "id": 105,
+    "question": "In Nigerian society, which is an element of non-material culture?",
+    "options": [
+      "belief",
+      "house",
+      "pot",
+      "farm tool"
+    ],
+    "answer": 0,
+    "topic": "language and oral literature"
+  },
+  {
+    "id": 106,
+    "question": "A norm is a",
+    "options": [
+      "socially accepted rule of behaviour",
+      "geographical feature",
+      "type of language",
+      "religious building"
+    ],
+    "answer": 0,
+    "topic": "language and oral literature"
+  },
+  {
+    "id": 107,
+    "question": "Values are primarily",
+    "options": [
+      "shared ideas about what a society considers desirable",
+      "physical objects used by people",
+      "administrative boundaries",
+      "forms of rainfall"
+    ],
+    "answer": 0,
+    "topic": "language and oral literature"
+  },
+  {
+    "id": 108,
+    "question": "Cultural diversity means",
+    "options": [
+      "the existence of different cultural patterns within a society",
+      "the absence of culture",
+      "one culture shared by everyone",
+      "the rejection of tradition"
+    ],
+    "answer": 0,
+    "topic": "language and oral literature"
+  },
+  {
+    "id": 109,
+    "question": "In Nigerian society, enculturation refers to",
+    "options": [
+      "learning the culture of one's society",
+      "migration from one country to another",
+      "industrial production",
+      "military training"
+    ],
+    "answer": 0,
+    "topic": "language and oral literature"
+  },
+  {
+    "id": 110,
+    "question": "Cultural change may result from",
+    "options": [
+      "innovation, diffusion and contact with other societies",
+      "only biological inheritance",
+      "only climate",
+      "only population decline"
+    ],
+    "answer": 0,
+    "topic": "language and oral literature"
+  },
+  {
+    "id": 111,
+    "question": "In Nigerian society, culture is best described as the",
+    "options": [
+      "learned way of life of a group",
+      "biological inheritance of a population",
+      "climate of a society",
+      "political boundary of a country"
+    ],
+    "answer": 0,
+    "topic": "clothing and adornment"
+  },
+  {
+    "id": 112,
+    "question": "A major function of culture is to",
+    "options": [
+      "provide shared patterns of behaviour and meaning",
+      "eliminate all differences among people",
+      "replace every form of education",
+      "prevent social interaction"
+    ],
+    "answer": 0,
+    "topic": "clothing and adornment"
+  },
+  {
+    "id": 113,
+    "question": "Culture is transmitted mainly through",
+    "options": [
+      "socialization and learning",
+      "genetic mutation",
+      "weather changes",
+      "natural selection alone"
+    ],
+    "answer": 0,
+    "topic": "clothing and adornment"
+  },
+  {
+    "id": 114,
+    "question": "Which is an element of material culture?",
+    "options": [
+      "traditional clothing",
+      "belief",
+      "value",
+      "norm"
+    ],
+    "answer": 0,
+    "topic": "clothing and adornment"
+  },
+  {
+    "id": 115,
+    "question": "In Nigerian society, which is an element of non-material culture?",
+    "options": [
+      "belief",
+      "house",
+      "pot",
+      "farm tool"
+    ],
+    "answer": 0,
+    "topic": "clothing and adornment"
+  },
+  {
+    "id": 116,
+    "question": "A norm is a",
+    "options": [
+      "socially accepted rule of behaviour",
+      "geographical feature",
+      "type of language",
+      "religious building"
+    ],
+    "answer": 0,
+    "topic": "clothing and adornment"
+  },
+  {
+    "id": 117,
+    "question": "Values are primarily",
+    "options": [
+      "shared ideas about what a society considers desirable",
+      "physical objects used by people",
+      "administrative boundaries",
+      "forms of rainfall"
+    ],
+    "answer": 0,
+    "topic": "clothing and adornment"
+  },
+  {
+    "id": 118,
+    "question": "Cultural diversity means",
+    "options": [
+      "the existence of different cultural patterns within a society",
+      "the absence of culture",
+      "one culture shared by everyone",
+      "the rejection of tradition"
+    ],
+    "answer": 0,
+    "topic": "clothing and adornment"
+  },
+  {
+    "id": 119,
+    "question": "In Nigerian society, enculturation refers to",
+    "options": [
+      "learning the culture of one's society",
+      "migration from one country to another",
+      "industrial production",
+      "military training"
+    ],
+    "answer": 0,
+    "topic": "clothing and adornment"
+  },
+  {
+    "id": 120,
+    "question": "Cultural change may result from",
+    "options": [
+      "innovation, diffusion and contact with other societies",
+      "only biological inheritance",
+      "only climate",
+      "only population decline"
+    ],
+    "answer": 0,
+    "topic": "clothing and adornment"
+  },
+  {
+    "id": 121,
+    "question": "In Nigerian society, culture is best described as the",
+    "options": [
+      "learned way of life of a group",
+      "biological inheritance of a population",
+      "climate of a society",
+      "political boundary of a country"
+    ],
+    "answer": 0,
+    "topic": "food and cultural practices"
+  },
+  {
+    "id": 122,
+    "question": "A major function of culture is to",
+    "options": [
+      "provide shared patterns of behaviour and meaning",
+      "eliminate all differences among people",
+      "replace every form of education",
+      "prevent social interaction"
+    ],
+    "answer": 0,
+    "topic": "food and cultural practices"
+  },
+  {
+    "id": 123,
+    "question": "Culture is transmitted mainly through",
+    "options": [
+      "socialization and learning",
+      "genetic mutation",
+      "weather changes",
+      "natural selection alone"
+    ],
+    "answer": 0,
+    "topic": "food and cultural practices"
+  },
+  {
+    "id": 124,
+    "question": "Which is an element of material culture?",
+    "options": [
+      "traditional clothing",
+      "belief",
+      "value",
+      "norm"
+    ],
+    "answer": 0,
+    "topic": "food and cultural practices"
+  },
+  {
+    "id": 125,
+    "question": "In Nigerian society, which is an element of non-material culture?",
+    "options": [
+      "belief",
+      "house",
+      "pot",
+      "farm tool"
+    ],
+    "answer": 0,
+    "topic": "food and cultural practices"
+  },
+  {
+    "id": 126,
+    "question": "A norm is a",
+    "options": [
+      "socially accepted rule of behaviour",
+      "geographical feature",
+      "type of language",
+      "religious building"
+    ],
+    "answer": 0,
+    "topic": "food and cultural practices"
+  },
+  {
+    "id": 127,
+    "question": "Values are primarily",
+    "options": [
+      "shared ideas about what a society considers desirable",
+      "physical objects used by people",
+      "administrative boundaries",
+      "forms of rainfall"
+    ],
+    "answer": 0,
+    "topic": "food and cultural practices"
+  },
+  {
+    "id": 128,
+    "question": "Cultural diversity means",
+    "options": [
+      "the existence of different cultural patterns within a society",
+      "the absence of culture",
+      "one culture shared by everyone",
+      "the rejection of tradition"
+    ],
+    "answer": 0,
+    "topic": "food and cultural practices"
+  },
+  {
+    "id": 129,
+    "question": "In Nigerian society, enculturation refers to",
+    "options": [
+      "learning the culture of one's society",
+      "migration from one country to another",
+      "industrial production",
+      "military training"
+    ],
+    "answer": 0,
+    "topic": "food and cultural practices"
+  },
+  {
+    "id": 130,
+    "question": "Cultural change may result from",
+    "options": [
+      "innovation, diffusion and contact with other societies",
+      "only biological inheritance",
+      "only climate",
+      "only population decline"
+    ],
+    "answer": 0,
+    "topic": "food and cultural practices"
+  },
+  {
+    "id": 131,
+    "question": "In Nigerian society, culture is best described as the",
+    "options": [
+      "learned way of life of a group",
+      "biological inheritance of a population",
+      "climate of a society",
+      "political boundary of a country"
+    ],
+    "answer": 0,
+    "topic": "family and kinship"
+  },
+  {
+    "id": 132,
+    "question": "A major function of culture is to",
+    "options": [
+      "provide shared patterns of behaviour and meaning",
+      "eliminate all differences among people",
+      "replace every form of education",
+      "prevent social interaction"
+    ],
+    "answer": 0,
+    "topic": "family and kinship"
+  },
+  {
+    "id": 133,
+    "question": "Culture is transmitted mainly through",
+    "options": [
+      "socialization and learning",
+      "genetic mutation",
+      "weather changes",
+      "natural selection alone"
+    ],
+    "answer": 0,
+    "topic": "family and kinship"
+  },
+  {
+    "id": 134,
+    "question": "Which is an element of material culture?",
+    "options": [
+      "traditional clothing",
+      "belief",
+      "value",
+      "norm"
+    ],
+    "answer": 0,
+    "topic": "family and kinship"
+  },
+  {
+    "id": 135,
+    "question": "In Nigerian society, which is an element of non-material culture?",
+    "options": [
+      "belief",
+      "house",
+      "pot",
+      "farm tool"
+    ],
+    "answer": 0,
+    "topic": "family and kinship"
+  },
+  {
+    "id": 136,
+    "question": "A norm is a",
+    "options": [
+      "socially accepted rule of behaviour",
+      "geographical feature",
+      "type of language",
+      "religious building"
+    ],
+    "answer": 0,
+    "topic": "family and kinship"
+  },
+  {
+    "id": 137,
+    "question": "Values are primarily",
+    "options": [
+      "shared ideas about what a society considers desirable",
+      "physical objects used by people",
+      "administrative boundaries",
+      "forms of rainfall"
+    ],
+    "answer": 0,
+    "topic": "family and kinship"
+  },
+  {
+    "id": 138,
+    "question": "Cultural diversity means",
+    "options": [
+      "the existence of different cultural patterns within a society",
+      "the absence of culture",
+      "one culture shared by everyone",
+      "the rejection of tradition"
+    ],
+    "answer": 0,
+    "topic": "family and kinship"
+  },
+  {
+    "id": 139,
+    "question": "In Nigerian society, enculturation refers to",
+    "options": [
+      "learning the culture of one's society",
+      "migration from one country to another",
+      "industrial production",
+      "military training"
+    ],
+    "answer": 0,
+    "topic": "family and kinship"
+  },
+  {
+    "id": 140,
+    "question": "Cultural change may result from",
+    "options": [
+      "innovation, diffusion and contact with other societies",
+      "only biological inheritance",
+      "only climate",
+      "only population decline"
+    ],
+    "answer": 0,
+    "topic": "family and kinship"
+  },
+  {
+    "id": 141,
+    "question": "In Nigerian society, culture is best described as the",
+    "options": [
+      "learned way of life of a group",
+      "biological inheritance of a population",
+      "climate of a society",
+      "political boundary of a country"
+    ],
+    "answer": 0,
+    "topic": "gender and social roles"
+  },
+  {
+    "id": 142,
+    "question": "A major function of culture is to",
+    "options": [
+      "provide shared patterns of behaviour and meaning",
+      "eliminate all differences among people",
+      "replace every form of education",
+      "prevent social interaction"
+    ],
+    "answer": 0,
+    "topic": "gender and social roles"
+  },
+  {
+    "id": 143,
+    "question": "Culture is transmitted mainly through",
+    "options": [
+      "socialization and learning",
+      "genetic mutation",
+      "weather changes",
+      "natural selection alone"
+    ],
+    "answer": 0,
+    "topic": "gender and social roles"
+  },
+  {
+    "id": 144,
+    "question": "Which is an element of material culture?",
+    "options": [
+      "traditional clothing",
+      "belief",
+      "value",
+      "norm"
+    ],
+    "answer": 0,
+    "topic": "gender and social roles"
+  },
+  {
+    "id": 145,
+    "question": "In Nigerian society, which is an element of non-material culture?",
+    "options": [
+      "belief",
+      "house",
+      "pot",
+      "farm tool"
+    ],
+    "answer": 0,
+    "topic": "gender and social roles"
+  },
+  {
+    "id": 146,
+    "question": "A norm is a",
+    "options": [
+      "socially accepted rule of behaviour",
+      "geographical feature",
+      "type of language",
+      "religious building"
+    ],
+    "answer": 0,
+    "topic": "gender and social roles"
+  },
+  {
+    "id": 147,
+    "question": "Values are primarily",
+    "options": [
+      "shared ideas about what a society considers desirable",
+      "physical objects used by people",
+      "administrative boundaries",
+      "forms of rainfall"
+    ],
+    "answer": 0,
+    "topic": "gender and social roles"
+  },
+  {
+    "id": 148,
+    "question": "Cultural diversity means",
+    "options": [
+      "the existence of different cultural patterns within a society",
+      "the absence of culture",
+      "one culture shared by everyone",
+      "the rejection of tradition"
+    ],
+    "answer": 0,
+    "topic": "gender and social roles"
+  },
+  {
+    "id": 149,
+    "question": "In Nigerian society, enculturation refers to",
+    "options": [
+      "learning the culture of one's society",
+      "migration from one country to another",
+      "industrial production",
+      "military training"
+    ],
+    "answer": 0,
+    "topic": "gender and social roles"
+  },
+  {
+    "id": 150,
+    "question": "Cultural change may result from",
+    "options": [
+      "innovation, diffusion and contact with other societies",
+      "only biological inheritance",
+      "only climate",
+      "only population decline"
+    ],
+    "answer": 0,
+    "topic": "gender and social roles"
+  },
+  {
+    "id": 151,
+    "question": "In Nigerian society, culture is best described as the",
+    "options": [
+      "learned way of life of a group",
+      "biological inheritance of a population",
+      "climate of a society",
+      "political boundary of a country"
+    ],
+    "answer": 0,
+    "topic": "education and indigenous knowledge"
+  },
+  {
+    "id": 152,
+    "question": "A major function of culture is to",
+    "options": [
+      "provide shared patterns of behaviour and meaning",
+      "eliminate all differences among people",
+      "replace every form of education",
+      "prevent social interaction"
+    ],
+    "answer": 0,
+    "topic": "education and indigenous knowledge"
+  },
+  {
+    "id": 153,
+    "question": "Culture is transmitted mainly through",
+    "options": [
+      "socialization and learning",
+      "genetic mutation",
+      "weather changes",
+      "natural selection alone"
+    ],
+    "answer": 0,
+    "topic": "education and indigenous knowledge"
+  },
+  {
+    "id": 154,
+    "question": "Which is an element of material culture?",
+    "options": [
+      "traditional clothing",
+      "belief",
+      "value",
+      "norm"
+    ],
+    "answer": 0,
+    "topic": "education and indigenous knowledge"
+  },
+  {
+    "id": 155,
+    "question": "In Nigerian society, which is an element of non-material culture?",
+    "options": [
+      "belief",
+      "house",
+      "pot",
+      "farm tool"
+    ],
+    "answer": 0,
+    "topic": "education and indigenous knowledge"
+  },
+  {
+    "id": 156,
+    "question": "A norm is a",
+    "options": [
+      "socially accepted rule of behaviour",
+      "geographical feature",
+      "type of language",
+      "religious building"
+    ],
+    "answer": 0,
+    "topic": "education and indigenous knowledge"
+  },
+  {
+    "id": 157,
+    "question": "Values are primarily",
+    "options": [
+      "shared ideas about what a society considers desirable",
+      "physical objects used by people",
+      "administrative boundaries",
+      "forms of rainfall"
+    ],
+    "answer": 0,
+    "topic": "education and indigenous knowledge"
+  },
+  {
+    "id": 158,
+    "question": "Cultural diversity means",
+    "options": [
+      "the existence of different cultural patterns within a society",
+      "the absence of culture",
+      "one culture shared by everyone",
+      "the rejection of tradition"
+    ],
+    "answer": 0,
+    "topic": "education and indigenous knowledge"
+  },
+  {
+    "id": 159,
+    "question": "In Nigerian society, enculturation refers to",
+    "options": [
+      "learning the culture of one's society",
+      "migration from one country to another",
+      "industrial production",
+      "military training"
+    ],
+    "answer": 0,
+    "topic": "education and indigenous knowledge"
+  },
+  {
+    "id": 160,
+    "question": "Cultural change may result from",
+    "options": [
+      "innovation, diffusion and contact with other societies",
+      "only biological inheritance",
+      "only climate",
+      "only population decline"
+    ],
+    "answer": 0,
+    "topic": "education and indigenous knowledge"
+  },
+  {
+    "id": 161,
+    "question": "In Nigerian society, culture is best described as the",
+    "options": [
+      "learned way of life of a group",
+      "biological inheritance of a population",
+      "climate of a society",
+      "political boundary of a country"
+    ],
+    "answer": 0,
+    "topic": "apprenticeship and skills acquisition"
+  },
+  {
+    "id": 162,
+    "question": "A major function of culture is to",
+    "options": [
+      "provide shared patterns of behaviour and meaning",
+      "eliminate all differences among people",
+      "replace every form of education",
+      "prevent social interaction"
+    ],
+    "answer": 0,
+    "topic": "apprenticeship and skills acquisition"
+  },
+  {
+    "id": 163,
+    "question": "Culture is transmitted mainly through",
+    "options": [
+      "socialization and learning",
+      "genetic mutation",
+      "weather changes",
+      "natural selection alone"
+    ],
+    "answer": 0,
+    "topic": "apprenticeship and skills acquisition"
+  },
+  {
+    "id": 164,
+    "question": "Which is an element of material culture?",
+    "options": [
+      "traditional clothing",
+      "belief",
+      "value",
+      "norm"
+    ],
+    "answer": 0,
+    "topic": "apprenticeship and skills acquisition"
+  },
+  {
+    "id": 165,
+    "question": "In Nigerian society, which is an element of non-material culture?",
+    "options": [
+      "belief",
+      "house",
+      "pot",
+      "farm tool"
+    ],
+    "answer": 0,
+    "topic": "apprenticeship and skills acquisition"
+  },
+  {
+    "id": 166,
+    "question": "A norm is a",
+    "options": [
+      "socially accepted rule of behaviour",
+      "geographical feature",
+      "type of language",
+      "religious building"
+    ],
+    "answer": 0,
+    "topic": "apprenticeship and skills acquisition"
+  },
+  {
+    "id": 167,
+    "question": "Values are primarily",
+    "options": [
+      "shared ideas about what a society considers desirable",
+      "physical objects used by people",
+      "administrative boundaries",
+      "forms of rainfall"
+    ],
+    "answer": 0,
+    "topic": "apprenticeship and skills acquisition"
+  },
+  {
+    "id": 168,
+    "question": "Cultural diversity means",
+    "options": [
+      "the existence of different cultural patterns within a society",
+      "the absence of culture",
+      "one culture shared by everyone",
+      "the rejection of tradition"
+    ],
+    "answer": 0,
+    "topic": "apprenticeship and skills acquisition"
+  },
+  {
+    "id": 169,
+    "question": "In Nigerian society, enculturation refers to",
+    "options": [
+      "learning the culture of one's society",
+      "migration from one country to another",
+      "industrial production",
+      "military training"
+    ],
+    "answer": 0,
+    "topic": "apprenticeship and skills acquisition"
+  },
+  {
+    "id": 170,
+    "question": "Cultural change may result from",
+    "options": [
+      "innovation, diffusion and contact with other societies",
+      "only biological inheritance",
+      "only climate",
+      "only population decline"
+    ],
+    "answer": 0,
+    "topic": "apprenticeship and skills acquisition"
+  },
+  {
+    "id": 171,
+    "question": "In Nigerian society, culture is best described as the",
+    "options": [
+      "learned way of life of a group",
+      "biological inheritance of a population",
+      "climate of a society",
+      "political boundary of a country"
+    ],
+    "answer": 0,
+    "topic": "post-Civil War 3Rs and national integration"
+  },
+  {
+    "id": 172,
+    "question": "A major function of culture is to",
+    "options": [
+      "provide shared patterns of behaviour and meaning",
+      "eliminate all differences among people",
+      "replace every form of education",
+      "prevent social interaction"
+    ],
+    "answer": 0,
+    "topic": "post-Civil War 3Rs and national integration"
+  },
+  {
+    "id": 173,
+    "question": "Culture is transmitted mainly through",
+    "options": [
+      "socialization and learning",
+      "genetic mutation",
+      "weather changes",
+      "natural selection alone"
+    ],
+    "answer": 0,
+    "topic": "post-Civil War 3Rs and national integration"
+  },
+  {
+    "id": 174,
+    "question": "Which is an element of material culture?",
+    "options": [
+      "traditional clothing",
+      "belief",
+      "value",
+      "norm"
+    ],
+    "answer": 0,
+    "topic": "post-Civil War 3Rs and national integration"
+  },
+  {
+    "id": 175,
+    "question": "In Nigerian society, which is an element of non-material culture?",
+    "options": [
+      "belief",
+      "house",
+      "pot",
+      "farm tool"
+    ],
+    "answer": 0,
+    "topic": "post-Civil War 3Rs and national integration"
+  },
+  {
+    "id": 176,
+    "question": "A norm is a",
+    "options": [
+      "socially accepted rule of behaviour",
+      "geographical feature",
+      "type of language",
+      "religious building"
+    ],
+    "answer": 0,
+    "topic": "post-Civil War 3Rs and national integration"
+  },
+  {
+    "id": 177,
+    "question": "Values are primarily",
+    "options": [
+      "shared ideas about what a society considers desirable",
+      "physical objects used by people",
+      "administrative boundaries",
+      "forms of rainfall"
+    ],
+    "answer": 0,
+    "topic": "post-Civil War 3Rs and national integration"
+  },
+  {
+    "id": 178,
+    "question": "Cultural diversity means",
+    "options": [
+      "the existence of different cultural patterns within a society",
+      "the absence of culture",
+      "one culture shared by everyone",
+      "the rejection of tradition"
+    ],
+    "answer": 0,
+    "topic": "post-Civil War 3Rs and national integration"
+  },
+  {
+    "id": 179,
+    "question": "In Nigerian society, enculturation refers to",
+    "options": [
+      "learning the culture of one's society",
+      "migration from one country to another",
+      "industrial production",
+      "military training"
+    ],
+    "answer": 0,
+    "topic": "post-Civil War 3Rs and national integration"
+  },
+  {
+    "id": 180,
+    "question": "Cultural change may result from",
+    "options": [
+      "innovation, diffusion and contact with other societies",
+      "only biological inheritance",
+      "only climate",
+      "only population decline"
+    ],
+    "answer": 0,
+    "topic": "post-Civil War 3Rs and national integration"
+  },
+  {
+    "id": 181,
+    "question": "In Nigerian society, culture is best described as the",
+    "options": [
+      "learned way of life of a group",
+      "biological inheritance of a population",
+      "climate of a society",
+      "political boundary of a country"
+    ],
+    "answer": 0,
+    "topic": "self-reliance and national development"
+  },
+  {
+    "id": 182,
+    "question": "A major function of culture is to",
+    "options": [
+      "provide shared patterns of behaviour and meaning",
+      "eliminate all differences among people",
+      "replace every form of education",
+      "prevent social interaction"
+    ],
+    "answer": 0,
+    "topic": "self-reliance and national development"
+  },
+  {
+    "id": 183,
+    "question": "Culture is transmitted mainly through",
+    "options": [
+      "socialization and learning",
+      "genetic mutation",
+      "weather changes",
+      "natural selection alone"
+    ],
+    "answer": 0,
+    "topic": "self-reliance and national development"
+  },
+  {
+    "id": 184,
+    "question": "Which is an element of material culture?",
+    "options": [
+      "traditional clothing",
+      "belief",
+      "value",
+      "norm"
+    ],
+    "answer": 0,
+    "topic": "self-reliance and national development"
+  },
+  {
+    "id": 185,
+    "question": "In Nigerian society, which is an element of non-material culture?",
+    "options": [
+      "belief",
+      "house",
+      "pot",
+      "farm tool"
+    ],
+    "answer": 0,
+    "topic": "self-reliance and national development"
+  },
+  {
+    "id": 186,
+    "question": "A norm is a",
+    "options": [
+      "socially accepted rule of behaviour",
+      "geographical feature",
+      "type of language",
+      "religious building"
+    ],
+    "answer": 0,
+    "topic": "self-reliance and national development"
+  },
+  {
+    "id": 187,
+    "question": "Values are primarily",
+    "options": [
+      "shared ideas about what a society considers desirable",
+      "physical objects used by people",
+      "administrative boundaries",
+      "forms of rainfall"
+    ],
+    "answer": 0,
+    "topic": "self-reliance and national development"
+  },
+  {
+    "id": 188,
+    "question": "Cultural diversity means",
+    "options": [
+      "the existence of different cultural patterns within a society",
+      "the absence of culture",
+      "one culture shared by everyone",
+      "the rejection of tradition"
+    ],
+    "answer": 0,
+    "topic": "self-reliance and national development"
+  },
+  {
+    "id": 189,
+    "question": "In Nigerian society, enculturation refers to",
+    "options": [
+      "learning the culture of one's society",
+      "migration from one country to another",
+      "industrial production",
+      "military training"
+    ],
+    "answer": 0,
+    "topic": "self-reliance and national development"
+  },
+  {
+    "id": 190,
+    "question": "Cultural change may result from",
+    "options": [
+      "innovation, diffusion and contact with other societies",
+      "only biological inheritance",
+      "only climate",
+      "only population decline"
+    ],
+    "answer": 0,
+    "topic": "self-reliance and national development"
+  },
+  {
+    "id": 191,
+    "question": "In Nigerian society, culture is best described as the",
+    "options": [
+      "learned way of life of a group",
+      "biological inheritance of a population",
+      "climate of a society",
+      "political boundary of a country"
+    ],
+    "answer": 0,
+    "topic": "globalization and contemporary Nigerian culture"
+  },
+  {
+    "id": 192,
+    "question": "A major function of culture is to",
+    "options": [
+      "provide shared patterns of behaviour and meaning",
+      "eliminate all differences among people",
+      "replace every form of education",
+      "prevent social interaction"
+    ],
+    "answer": 0,
+    "topic": "globalization and contemporary Nigerian culture"
+  },
+  {
+    "id": 193,
+    "question": "Culture is transmitted mainly through",
+    "options": [
+      "socialization and learning",
+      "genetic mutation",
+      "weather changes",
+      "natural selection alone"
+    ],
+    "answer": 0,
+    "topic": "globalization and contemporary Nigerian culture"
+  },
+  {
+    "id": 194,
+    "question": "Which is an element of material culture?",
+    "options": [
+      "traditional clothing",
+      "belief",
+      "value",
+      "norm"
+    ],
+    "answer": 0,
+    "topic": "globalization and contemporary Nigerian culture"
+  },
+  {
+    "id": 195,
+    "question": "In Nigerian society, which is an element of non-material culture?",
+    "options": [
+      "belief",
+      "house",
+      "pot",
+      "farm tool"
+    ],
+    "answer": 0,
+    "topic": "globalization and contemporary Nigerian culture"
+  },
+  {
+    "id": 196,
+    "question": "A norm is a",
+    "options": [
+      "socially accepted rule of behaviour",
+      "geographical feature",
+      "type of language",
+      "religious building"
+    ],
+    "answer": 0,
+    "topic": "globalization and contemporary Nigerian culture"
+  },
+  {
+    "id": 197,
+    "question": "Values are primarily",
+    "options": [
+      "shared ideas about what a society considers desirable",
+      "physical objects used by people",
+      "administrative boundaries",
+      "forms of rainfall"
+    ],
+    "answer": 0,
+    "topic": "globalization and contemporary Nigerian culture"
+  },
+  {
+    "id": 198,
+    "question": "Cultural diversity means",
+    "options": [
+      "the existence of different cultural patterns within a society",
+      "the absence of culture",
+      "one culture shared by everyone",
+      "the rejection of tradition"
+    ],
+    "answer": 0,
+    "topic": "globalization and contemporary Nigerian culture"
+  },
+  {
+    "id": 199,
+    "question": "In Nigerian society, enculturation refers to",
+    "options": [
+      "learning the culture of one's society",
+      "migration from one country to another",
+      "industrial production",
+      "military training"
+    ],
+    "answer": 0,
+    "topic": "globalization and contemporary Nigerian culture"
+  },
+  {
+    "id": 200,
+    "question": "Cultural change may result from",
+    "options": [
+      "innovation, diffusion and contact with other societies",
+      "only biological inheritance",
+      "only climate",
+      "only population decline"
+    ],
+    "answer": 0,
+    "topic": "globalization and contemporary Nigerian culture"
+  }
+]
