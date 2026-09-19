@@ -18,67 +18,15 @@ input,select{width:100%;padding:11px;border:1px solid #d5dae4;border-radius:9px;
 table{width:100%;border-collapse:collapse}th,td{padding:9px;border-bottom:1px solid #edf0f5;text-align:left}
 footer{text-align:center;padding:28px;color:#687386;font-size:.87rem}.celebrate{text-align:center;font-size:3.4rem;animation:pop .8s}@keyframes pop{from{transform:scale(.2);opacity:0}to{transform:scale(1);opacity:1}}
 </style></head><body>
-<header>
-    <div>
-        <h1>GST 121 — Nigerian People & Culture</h1>
-        <p>CBT Examination Practice • University of Uyo</p>
-    </div>
-    <!-- <nav id="nav"></nav> -->
-         <nav id="nav" class="navbar navbar-expand-lg bg-body-tertiary">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="#">CBT</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarScroll">
-          <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Home</a>
-            </li>
-            <Button id="si" class="gold" onclick="mode('si')">sign in</Button>
-            <button id="su" class="secondary" onclick="mode('su')">sign up</button>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                admin
-              </a>
-            <div id="adminM" class="modal">
-               <div class="modalbox"><h2>Administrator access</h2>
-                  <form onsubmit="adminLogin(event)">
-                    <label>Email<input id="ae" type="email" required></label><br><label>Password<input id="ap" type="password" required></label><br><button class="gold">Enter portal</button></form><p id="adm"></p>
-              </div>
-            </div>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link disabled" aria-disabled="true">Link</a>
-            </li>
-          </ul>
-          <form class="d-flex" role="search">
-            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success" type="submit">Search</button>
-          </form>
-        </div>
-      </div>
-    </nav>
-
-</header>
+<header><div><h1>GST 121 — Nigerian People & Culture</h1><p>CBT Examination Practice • University of Uyo</p></div><nav id="nav"></nav></header>
 <main class="wrap"><section id="home"></section><section id="exam" class="hidden"></section><section id="history" class="hidden"></section><section id="profile" class="hidden"></section><section id="admin" class="hidden"></section></main>
-
-
-
 <footer>Built by <b>Miracle Silas</b> • Department of Public Administration, University of Uyo • For educational purposes.</footer>
 
 <div id="auth" class="modal"><div class="modalbox"><div class="row between"><h2 id="authTitle">Sign in</h2><button class="secondary" onclick="closeM('auth')">×</button></div>
-<!-- <div class="row"> -->
-    <!-- <button id="si" class="gold" onclick="mode('si')">Sign in</button> -->
-    <!-- <button id="su" class="secondary" onclick="mode('su')">Sign up</button> -->
-<!-- </div> -->
-<!-- <form onsubmit="auth(event)"><label>Username<input id="un" required></label><br><label>Email<input id="em" type="email"></label><br><label>Password<input id="pw" type="password" minlength="4" required></label><br><button class="gold">Continue</button></form><p id="am"></p></div></div> -->
+<div class="row"><button id="si" class="gold" onclick="mode('si')">Sign in</button><button id="su" class="secondary" onclick="mode('su')">Sign up</button></div>
+<form onsubmit="auth(event)"><label>Username<input id="un" required></label><br><label>Email<input id="em" type="email"></label><br><label>Password<input id="pw" type="password" minlength="4" required></label><br><button class="gold">Continue</button></form><p id="am"></p></div></div>
 
-<!-- <div id="adminM" class="modal">
-    <div class="modalbox"><h2>Administrator access</h2>
-        <form onsubmit="adminLogin(event)"><label>Email<input id="ae" type="email" required></label><br><label>Password<input id="ap" type="password" required></label><br><button class="gold">Enter portal</button></form><p id="adm"></p>
-    </div>
-</div> -->
+<div id="adminM" class="modal"><div class="modalbox"><h2>Administrator access</h2><form onsubmit="adminLogin(event)"><label>Email<input id="ae" type="email" required></label><br><label>Password<input id="ap" type="password" required></label><br><button class="gold">Enter portal</button></form><p id="adm"></p></div></div>
 <div id="result" class="modal"><div class="modalbox" id="resultBox"></div></div>
 
 <script>
@@ -121,5 +69,4 @@ function adminLogin(e){e.preventDefault();if(ae.value!==ADMIN_EMAIL||ap.value!==
 function admin(){if(!S.admin)return openAdmin();show("admin");nav();let users=S.users.map((u,i)=>`<tr><td>${esc(u.username)}</td><td>${esc(u.email||"")}</td><td>${u.approved?"Approved":"Pending"}</td><td>${u.attempts}</td><td><button class="gold" onclick="grant(${i})">${u.approved?"Revoke":"Grant all"}</button> <button class="danger" onclick="del(${i})">Delete</button></td></tr>`).join("");document.getElementById("admin").innerHTML=`<div class="card"><h2>Admin portal</h2><p>User authorization, approval/revocation and deletion.</p><table><tr><th>User</th><th>Email</th><th>Access</th><th>Attempts</th><th>Actions</th></tr>${users||"<tr><td colspan=5>No users.</td></tr>"}</table></div>`}
 function grant(i){S.users[i].approved=!S.users[i].approved;save();admin()} function del(i){if(confirm("Delete this user and their history?")){let x=S.users[i].username;S.users.splice(i,1);S.history=S.history.filter(r=>r.user!==x);save();admin()}}
 home();
-</script></body>
-</html>
+</script></body></html>.
